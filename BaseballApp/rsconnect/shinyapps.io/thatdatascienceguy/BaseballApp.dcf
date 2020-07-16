@@ -1,0 +1,12 @@
+name: BaseballApp
+title: BaseballApp
+username:
+account: thatdatascienceguy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2577033
+bundleId: 3397497
+url: https://thatdatascienceguy.shinyapps.io/BaseballApp/
+when: 1594857081.51348
+asMultiple: FALSE
+asStatic: FALSE

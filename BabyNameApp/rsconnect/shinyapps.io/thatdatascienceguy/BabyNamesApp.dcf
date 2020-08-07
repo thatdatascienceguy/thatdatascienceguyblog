@@ -1,0 +1,13 @@
+name: BabyNamesApp
+title: BabyNamesApp
+username:
+account: thatdatascienceguy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2647603
+bundleId: 3484548
+url: https://thatdatascienceguy.shinyapps.io/BabyNamesApp/
+when: 1596755978.34253
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: names.zip

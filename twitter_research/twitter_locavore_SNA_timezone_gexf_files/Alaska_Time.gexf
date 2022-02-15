@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="Health_Bean" label="Health_Bean">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Alaska Time" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="kristikennedy" label="kristikennedy">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Alaska Time" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="FebMaoo" label="FebMaoo">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Alaska Time" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="echomarket" label="echomarket">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Alaska Time" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="KittyMargolis" label="KittyMargolis">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Alaska Time" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Health_Bean" target="kristikennedy" />
+      <edge id="1" source="Health_Bean" target="FebMaoo" />
+      <edge id="2" source="Health_Bean" target="echomarket" />
+      <edge id="3" source="Health_Bean" target="KittyMargolis" />
+      <edge id="4" source="kristikennedy" target="FebMaoo" />
+      <edge id="5" source="kristikennedy" target="echomarket" />
+      <edge id="6" source="kristikennedy" target="KittyMargolis" />
+      <edge id="7" source="FebMaoo" target="echomarket" />
+      <edge id="8" source="FebMaoo" target="KittyMargolis" />
+      <edge id="9" source="echomarket" target="KittyMargolis" />
+    </edges>
+  </graph>
+</gexf>

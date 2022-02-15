@@ -1,0 +1,34 @@
+Description of the Variables in the locavore_twitter_search_results.csv dataset:
+
+1) created_at: Date and Time that the Twitter account was created.
+
+2) description: The Twitter user's biography in their profile.
+
+3) favourites_count: How many tweets has the Twitter user liked. (similar to Facebook's like button/liking someone posts)
+
+4) followers_count: Number of twitter users that are following the user.
+
+5) friends_count: Number of Twitter accounts the user is following.
+
+6) geo_enabled: TRUE if the user has agreed to let location data get posted in their tweets, FALSE if the geo_enabled feature is not enabled.
+(Source: http://stackoverflow.com/questions/10112268/knowing-if-a-twitter-user-has-location-enabled)
+
+7) id: The twitter user's id (unique identifier)
+
+8) id_str: Same as id but as a string.
+
+9) lang: The langauge the Twitter user is using.
+
+10) listed_count: The number of subscriptions the user has subscribed to.
+
+11) location: The Twitter user's location.
+
+12) name: The Twitter's user's name.
+
+13) screen_name: The twitter user's username. (View a Twitter account by twitter.com/screen_name.
+
+14) status_count: The number of tweets the Twitter user has posted.
+
+15) time_zone: The twitter user's time zone where they are located.
+
+16) verified: TRUE if the account is a verified twitter account, FALSE otherwise.

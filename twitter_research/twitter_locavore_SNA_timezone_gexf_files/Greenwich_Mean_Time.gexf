@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="RBelleme" label="RBelleme">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Greenwich Mean Time" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="LoveaLocavore" label="LoveaLocavore">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Greenwich Mean Time" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="MeMatTaylor" label="MeMatTaylor">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Greenwich Mean Time" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="clrkmrtn" label="clrkmrtn">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Greenwich Mean Time" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="NadiaBunce" label="NadiaBunce">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Greenwich Mean Time" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="RBelleme" target="NadiaBunce" />
+      <edge id="1" source="RBelleme" target="LoveaLocavore" />
+      <edge id="2" source="RBelleme" target="MeMatTaylor" />
+      <edge id="3" source="RBelleme" target="clrkmrtn" />
+      <edge id="4" source="LoveaLocavore" target="NadiaBunce" />
+      <edge id="5" source="LoveaLocavore" target="MeMatTaylor" />
+      <edge id="6" source="LoveaLocavore" target="clrkmrtn" />
+      <edge id="7" source="MeMatTaylor" target="clrkmrtn" />
+      <edge id="8" source="MeMatTaylor" target="NadiaBunce" />
+      <edge id="9" source="clrkmrtn" target="NadiaBunce" />
+    </edges>
+  </graph>
+</gexf>

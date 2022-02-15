@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="vino_freakism" label="vino_freakism">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Hawaii-Aleutian Time" />
+          <attvalue for="2" value="-10" />
+        </attvalues>
+      </node>
+      <node id="ncarrier" label="ncarrier">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Hawaii-Aleutian Time" />
+          <attvalue for="2" value="-10" />
+        </attvalues>
+      </node>
+      <node id="MariaLaRouge" label="MariaLaRouge">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Hawaii-Aleutian Time" />
+          <attvalue for="2" value="-10" />
+        </attvalues>
+      </node>
+      <node id="LocavoreEdition" label="LocavoreEdition">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Hawaii-Aleutian Time" />
+          <attvalue for="2" value="-10" />
+        </attvalues>
+      </node>
+      <node id="JanaMcMahon" label="JanaMcMahon">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Hawaii-Aleutian Time" />
+          <attvalue for="2" value="-10" />
+        </attvalues>
+      </node>
+      <node id="ElliotGFung" label="ElliotGFung">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Hawaii-Aleutian Time" />
+          <attvalue for="2" value="-10" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="vino_freakism" target="MariaLaRouge" />
+      <edge id="1" source="vino_freakism" target="JanaMcMahon" />
+      <edge id="2" source="vino_freakism" target="ElliotGFung" />
+      <edge id="3" source="vino_freakism" target="LocavoreEdition" />
+      <edge id="4" source="vino_freakism" target="ncarrier" />
+      <edge id="5" source="ncarrier" target="MariaLaRouge" />
+      <edge id="6" source="ncarrier" target="JanaMcMahon" />
+      <edge id="7" source="ncarrier" target="ElliotGFung" />
+      <edge id="8" source="ncarrier" target="LocavoreEdition" />
+      <edge id="9" source="MariaLaRouge" target="LocavoreEdition" />
+      <edge id="10" source="MariaLaRouge" target="JanaMcMahon" />
+      <edge id="11" source="MariaLaRouge" target="ElliotGFung" />
+      <edge id="12" source="LocavoreEdition" target="JanaMcMahon" />
+      <edge id="13" source="LocavoreEdition" target="ElliotGFung" />
+      <edge id="14" source="JanaMcMahon" target="ElliotGFung" />
+    </edges>
+  </graph>
+</gexf>

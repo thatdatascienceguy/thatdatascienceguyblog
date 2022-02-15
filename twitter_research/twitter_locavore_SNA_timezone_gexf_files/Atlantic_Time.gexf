@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="JonAlfield" label="JonAlfield">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="shira_ariel" label="shira_ariel">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="MarGoH2O" label="MarGoH2O">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="ethomm" label="ethomm">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="kristielawler" label="kristielawler">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="jill_chappell" label="jill_chappell">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="eatcleanguru" label="eatcleanguru">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="carinthekitch" label="carinthekitch">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="locavite" label="locavite">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+      <node id="smallhousedeb" label="smallhousedeb">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Atlantic Time (Canada)" />
+          <attvalue for="2" value="-4" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="JonAlfield" target="shira_ariel" />
+      <edge id="1" source="JonAlfield" target="MarGoH2O" />
+      <edge id="2" source="JonAlfield" target="ethomm" />
+      <edge id="3" source="JonAlfield" target="kristielawler" />
+      <edge id="4" source="JonAlfield" target="jill_chappell" />
+      <edge id="5" source="JonAlfield" target="eatcleanguru" />
+      <edge id="6" source="JonAlfield" target="carinthekitch" />
+      <edge id="7" source="JonAlfield" target="locavite" />
+      <edge id="8" source="JonAlfield" target="smallhousedeb" />
+      <edge id="9" source="shira_ariel" target="MarGoH2O" />
+      <edge id="10" source="shira_ariel" target="ethomm" />
+      <edge id="11" source="shira_ariel" target="kristielawler" />
+      <edge id="12" source="shira_ariel" target="jill_chappell" />
+      <edge id="13" source="shira_ariel" target="eatcleanguru" />
+      <edge id="14" source="shira_ariel" target="carinthekitch" />
+      <edge id="15" source="shira_ariel" target="locavite" />
+      <edge id="16" source="shira_ariel" target="smallhousedeb" />
+      <edge id="17" source="MarGoH2O" target="kristielawler" />
+      <edge id="18" source="MarGoH2O" target="ethomm" />
+      <edge id="19" source="MarGoH2O" target="jill_chappell" />
+      <edge id="20" source="MarGoH2O" target="eatcleanguru" />
+      <edge id="21" source="MarGoH2O" target="carinthekitch" />
+      <edge id="22" source="MarGoH2O" target="locavite" />
+      <edge id="23" source="MarGoH2O" target="smallhousedeb" />
+      <edge id="24" source="ethomm" target="kristielawler" />
+      <edge id="25" source="ethomm" target="jill_chappell" />
+      <edge id="26" source="ethomm" target="eatcleanguru" />
+      <edge id="27" source="ethomm" target="carinthekitch" />
+      <edge id="28" source="ethomm" target="locavite" />
+      <edge id="29" source="ethomm" target="smallhousedeb" />
+      <edge id="30" source="kristielawler" target="jill_chappell" />
+      <edge id="31" source="kristielawler" target="eatcleanguru" />
+      <edge id="32" source="kristielawler" target="carinthekitch" />
+      <edge id="33" source="kristielawler" target="locavite" />
+      <edge id="34" source="kristielawler" target="smallhousedeb" />
+      <edge id="35" source="jill_chappell" target="eatcleanguru" />
+      <edge id="36" source="jill_chappell" target="carinthekitch" />
+      <edge id="37" source="jill_chappell" target="locavite" />
+      <edge id="38" source="jill_chappell" target="smallhousedeb" />
+      <edge id="39" source="eatcleanguru" target="carinthekitch" />
+      <edge id="40" source="eatcleanguru" target="locavite" />
+      <edge id="41" source="eatcleanguru" target="smallhousedeb" />
+      <edge id="42" source="carinthekitch" target="locavite" />
+      <edge id="43" source="carinthekitch" target="smallhousedeb" />
+      <edge id="44" source="locavite" target="smallhousedeb" />
+    </edges>
+  </graph>
+</gexf>

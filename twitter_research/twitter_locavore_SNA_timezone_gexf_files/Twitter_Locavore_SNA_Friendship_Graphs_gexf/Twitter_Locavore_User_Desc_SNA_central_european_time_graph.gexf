@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="rapou" label="rapou">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="savoiesaveurs" label="savoiesaveurs">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Jay_Bradford" label="Jay_Bradford">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="notjusse" label="notjusse">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="legumerie" label="legumerie">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="ParisLocavore" label="ParisLocavore">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="SilvesterMars" label="SilvesterMars">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="LocalTerroir" label="LocalTerroir">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="frymde" label="frymde">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="gbeuvelot" label="gbeuvelot">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="ChrisGossart" label="ChrisGossart">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="sean_alphonse" label="sean_alphonse">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="ElRiri" label="ElRiri">
+        <attvalues>
+          <attvalue for="0" value="b" />
+          <attvalue for="1" value="Central European Time" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="savoiesaveurs" target="notjusse" />
+      <edge id="1" source="legumerie" target="LocalTerroir" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="misterjayfoote" label="misterjayfoote">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="jennifernardi" label="jennifernardi">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="safeclean" label="safeclean">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="MeganBultman" label="MeganBultman">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="pcfulCOaLiTiON" label="pcfulCOaLiTiON">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="jilmah" label="jilmah">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="rcksolie" label="rcksolie">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="Nommunity" label="Nommunity">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="lizross" label="lizross">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="threefourteen" label="threefourteen">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="andreagentl" label="andreagentl">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="TreeTonya" label="TreeTonya">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="DemosDemon" label="DemosDemon">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="DaytonDining" label="DaytonDining">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="locavoracious" label="locavoracious">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="AnnaChow" label="AnnaChow">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="tbellscott" label="tbellscott">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="AnotherDesign" label="AnotherDesign">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="JessicaBB" label="JessicaBB">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="femmekatz" label="femmekatz">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="HopsYeastBlog" label="HopsYeastBlog">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="Tsemmes" label="Tsemmes">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="BethOrchard8310" label="BethOrchard8310">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="AngieAlbright" label="AngieAlbright">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="EnduranceShaman" label="EnduranceShaman">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="manglade" label="manglade">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="ProfEdmondson" label="ProfEdmondson">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="MinnLocavore" label="MinnLocavore">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="jonzeper" label="jonzeper">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="foodgonewild" label="foodgonewild">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="ReachesPeaches" label="ReachesPeaches">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="lindsvreynolds" label="lindsvreynolds">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="Jeremiah_Dumas" label="Jeremiah_Dumas">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="LauraNealTV" label="LauraNealTV">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="GoLeaper" label="GoLeaper">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="relaxnsmile" label="relaxnsmile">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="jenebene" label="jenebene">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="ibby817" label="ibby817">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="hmgarden2table" label="hmgarden2table">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="prairiehorizons" label="prairiehorizons">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="gwingrimes" label="gwingrimes">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="tracefacemsu" label="tracefacemsu">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="ChiCitiGirl" label="ChiCitiGirl">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="MarcyHoen" label="MarcyHoen">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="kimand2kids" label="kimand2kids">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="SarahAElton" label="SarahAElton">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="kjleroy" label="kjleroy">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="bethesaurus" label="bethesaurus">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="WklessEvolution" label="WklessEvolution">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="stephgphillips" label="stephgphillips">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="andreanickrent" label="andreanickrent">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="amanda_paa" label="amanda_paa">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="jennydnicholson" label="jennydnicholson">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="GabeTown" label="GabeTown">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="dasparky" label="dasparky">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="ShubhraRamineni" label="ShubhraRamineni">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="refrancoeur" label="refrancoeur">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="MaryGClose" label="MaryGClose">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="natalieymoore" label="natalieymoore">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="MichaelPotters" label="MichaelPotters">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="chefsforfarmers" label="chefsforfarmers">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="ChefSarahMaster" label="ChefSarahMaster">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+      <node id="FarmingFC" label="FarmingFC">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Central Time (US &amp; Canada)" />
+          <attvalue for="2" value="-6" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="safeclean" target="femmekatz" />
+      <edge id="1" source="Nommunity" target="misterjayfoote" />
+      <edge id="2" source="Nommunity" target="Tsemmes" />
+      <edge id="3" source="Nommunity" target="MarcyHoen" />
+      <edge id="4" source="AnnaChow" target="MinnLocavore" />
+      <edge id="5" source="AnotherDesign" target="SarahAElton" />
+      <edge id="6" source="MinnLocavore" target="amanda_paa" />
+      <edge id="7" source="MinnLocavore" target="SarahAElton" />
+      <edge id="8" source="MinnLocavore" target="AnnaChow" />
+      <edge id="9" source="jenebene" target="MinnLocavore" />
+      <edge id="10" source="MarcyHoen" target="Nommunity" />
+      <edge id="11" source="kimand2kids" target="chefsforfarmers" />
+      <edge id="12" source="kjleroy" target="jenebene" />
+      <edge id="13" source="WklessEvolution" target="AnotherDesign" />
+      <edge id="14" source="amanda_paa" target="ChefSarahMaster" />
+      <edge id="15" source="ShubhraRamineni" target="chefsforfarmers" />
+      <edge id="16" source="MichaelPotters" target="SarahAElton" />
+      <edge id="17" source="chefsforfarmers" target="gwingrimes" />
+      <edge id="18" source="chefsforfarmers" target="ShubhraRamineni" />
+    </edges>
+  </graph>
+</gexf>

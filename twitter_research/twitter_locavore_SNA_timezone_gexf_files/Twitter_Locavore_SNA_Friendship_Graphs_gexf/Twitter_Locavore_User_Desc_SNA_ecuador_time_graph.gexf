@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="Lyss_too_Kool" label="Lyss_too_Kool">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="johngiunta" label="johngiunta">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="boyhowdy" label="boyhowdy">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="ideasremixed" label="ideasremixed">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="Streetsmart_RE" label="Streetsmart_RE">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="Farmtastictimes" label="Farmtastictimes">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="chelsiewyse" label="chelsiewyse">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="NiftyGal" label="NiftyGal">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="ksc_2015" label="ksc_2015">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="milk_honeybmore" label="milk_honeybmore">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="luckyscafe" label="luckyscafe">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="yeahstartmeup" label="yeahstartmeup">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="doyoucopyover" label="doyoucopyover">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="100milemel" label="100milemel">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="alienspice" label="alienspice">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="foxykevin" label="foxykevin">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="RichUnderhill" label="RichUnderhill">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="andreatavchar" label="andreatavchar">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="loveapplegarden" label="loveapplegarden">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="VijayOwens" label="VijayOwens">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="lalalalaurav" label="lalalalaurav">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="lbanzi" label="lbanzi">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="Wanderlocavore" label="Wanderlocavore">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="MsUrbanLocavore" label="MsUrbanLocavore">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="common_st" label="common_st">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="MavenMumma" label="MavenMumma">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="locavoreway" label="locavoreway">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="madeinmich" label="madeinmich">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="Kaliville" label="Kaliville">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="eatsofeden" label="eatsofeden">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+      <node id="stinaperry" label="stinaperry">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Ecuador Time" />
+          <attvalue for="2" value="-5" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ideasremixed" target="madeinmich" />
+      <edge id="1" source="Streetsmart_RE" target="common_st" />
+      <edge id="2" source="100milemel" target="eatsofeden" />
+      <edge id="3" source="Kaliville" target="RichUnderhill" />
+    </edges>
+  </graph>
+</gexf>

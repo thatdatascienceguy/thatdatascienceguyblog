@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="LilyNicholsRDN" label="LilyNicholsRDN">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="yvincentkim" label="yvincentkim">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="urbanhennery" label="urbanhennery">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="chicaoji" label="chicaoji">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="annmariechristy" label="annmariechristy">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="shenfrancisco" label="shenfrancisco">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="miritka" label="miritka">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="HeidiSpicy" label="HeidiSpicy">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="ThymeinaBottle" label="ThymeinaBottle">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="Grainfreemama" label="Grainfreemama">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="tinforest" label="tinforest">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="innatlangley" label="innatlangley">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="brigettemayer" label="brigettemayer">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="DailyActs" label="DailyActs">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="susanditz" label="susanditz">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="Socially_Monica" label="Socially_Monica">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="bookwife" label="bookwife">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="ElasticMindsCRC" label="ElasticMindsCRC">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="SonomaBento" label="SonomaBento">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="Januaryelle" label="Januaryelle">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="Foodisima" label="Foodisima">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="cookwithjames" label="cookwithjames">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="lindalrichards" label="lindalrichards">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="ChampionOrganic" label="ChampionOrganic">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="azthunderpony" label="azthunderpony">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="homegrownlocal" label="homegrownlocal">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="LGWBveganblog" label="LGWBveganblog">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="vickisimon" label="vickisimon">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="SeattleSpinner" label="SeattleSpinner">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="SMDANIEL" label="SMDANIEL">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="AwakeAtTheWhisk" label="AwakeAtTheWhisk">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="8ozBurgerBar" label="8ozBurgerBar">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="WinesSantaCruz" label="WinesSantaCruz">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="valeriecomer" label="valeriecomer">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="GailWadsworth" label="GailWadsworth">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="tortle" label="tortle">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="TiffanyCarreon" label="TiffanyCarreon">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="mywholedeal" label="mywholedeal">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="gpelucca" label="gpelucca">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="Eatintheyard" label="Eatintheyard">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="edibleradius" label="edibleradius">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="karicutler" label="karicutler">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="swirlmonster" label="swirlmonster">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="danikasea" label="danikasea">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="westsidelodge" label="westsidelodge">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="kerino" label="kerino">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="sarah__bikes" label="sarah__bikes">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="CatherineNOLA" label="CatherineNOLA">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="sararox28" label="sararox28">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="ChadMortensen" label="ChadMortensen">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="Samantha_Star" label="Samantha_Star">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="pattipdx" label="pattipdx">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="AnitaCrotty" label="AnitaCrotty">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="SFerika" label="SFerika">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="cloudshapes" label="cloudshapes">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="WhatcomLocavore" label="WhatcomLocavore">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="Liddleworks" label="Liddleworks">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="WagsnWellness" label="WagsnWellness">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="clairelematta" label="clairelematta">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="HyperVtg" label="HyperVtg">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="sarahebodnar" label="sarahebodnar">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="bellinivalli" label="bellinivalli">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="willow72" label="willow72">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="philyuck" label="philyuck">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="veganbotanicals" label="veganbotanicals">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="sipandsavourssi" label="sipandsavourssi">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="torea" label="torea">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="kikilesfleurs" label="kikilesfleurs">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="greenmacgal" label="greenmacgal">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="AraVallaster" label="AraVallaster">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="JennBeCreative" label="JennBeCreative">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="katelin_cruse" label="katelin_cruse">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="missTdJ" label="missTdJ">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="cirrus1426c" label="cirrus1426c">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="UpBeetRD" label="UpBeetRD">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+      <node id="kat_drex" label="kat_drex">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Pacific Time (US &amp; Canada)" />
+          <attvalue for="2" value="-9" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="urbanhennery" target="AnitaCrotty" />
+      <edge id="1" source="tinforest" target="willow72" />
+      <edge id="2" source="DailyActs" target="miritka" />
+      <edge id="3" source="susanditz" target="ChampionOrganic" />
+      <edge id="4" source="susanditz" target="GailWadsworth" />
+      <edge id="5" source="Foodisima" target="lindalrichards" />
+      <edge id="6" source="lindalrichards" target="Foodisima" />
+      <edge id="7" source="ChampionOrganic" target="susanditz" />
+      <edge id="8" source="ChampionOrganic" target="cookwithjames" />
+      <edge id="9" source="GailWadsworth" target="susanditz" />
+      <edge id="10" source="kerino" target="8ozBurgerBar" />
+      <edge id="11" source="sarah__bikes" target="DailyActs" />
+      <edge id="12" source="AnitaCrotty" target="urbanhennery" />
+      <edge id="13" source="willow72" target="tinforest" />
+      <edge id="14" source="AraVallaster" target="clairelematta" />
+    </edges>
+  </graph>
+</gexf>

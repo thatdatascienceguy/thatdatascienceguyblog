@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+      <attribute id="1" title="utc" type="string" />
+      <attribute id="2" title="utc_offset" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="Locavored" label="Locavored">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="jocelynmilici" label="jocelynmilici">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="RawRag23" label="RawRag23">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="albertagreekgrl" label="albertagreekgrl">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="GardensAtWork" label="GardensAtWork">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="DaniSykes" label="DaniSykes">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="homegrownchef" label="homegrownchef">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="peacefulreader" label="peacefulreader">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="Wealthof_Health" label="Wealthof_Health">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="wildfirediva" label="wildfirediva">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="Lindsey_Frenzy" label="Lindsey_Frenzy">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="GrassrootsChef" label="GrassrootsChef">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="kefifield" label="kefifield">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="Todd_Mayville" label="Todd_Mayville">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="BHLocavore" label="BHLocavore">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="ChuckNokuse" label="ChuckNokuse">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="LizLindow" label="LizLindow">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="donbrown" label="donbrown">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="pclinda" label="pclinda">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="RetroLabs" label="RetroLabs">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="willaful" label="willaful">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="MarkDiOrio" label="MarkDiOrio">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+      <node id="FlyFishingChef" label="FlyFishingChef">
+        <attvalues>
+          <attvalue for="0" value="r" />
+          <attvalue for="1" value="Mountain Time (US &amp; Canada)" />
+          <attvalue for="2" value="-7" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges />
+  </graph>
+</gexf>
